@@ -39,4 +39,4 @@ Umbraco supports multiple sites in a single instance. Whether you are creating a
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our[contact support](https://onlinegrowthcoach.com/) and we’ll help you sort it out.
+Having trouble with Umbraco? Check out our[support](https://onlinegrowthcoach.com/) and we’ll help you sort it out.
